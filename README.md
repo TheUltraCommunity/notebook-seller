@@ -1,7 +1,3 @@
-Sure, here's a sample README.md for your notebook seller application:
-
----
-
 # Notebook Seller Application
 
 Welcome to the Notebook Seller Application! This application allows users to browse and purchase various kinds of notebooks. The backend is built using MongoDB and Express, while the frontend is developed with React and JavaScript.
